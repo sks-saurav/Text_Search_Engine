@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+  <movie id="1">
+    <title>Employee of the Month</title>
+    <year>2004</year>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <keywords>
+      <keyword>plot-twist</keyword>
+      <keyword>bank-robbery</keyword>
+      <keyword>betrayal</keyword>
+      <keyword>bullet-proof-vest</keyword>
+      <keyword>faked-death</keyword>
+      <keyword>car-accident</keyword>
+      <keyword>lesbian-kiss</keyword>
+      <keyword>person-on-fire</keyword>
+      <keyword>employment-dismissal</keyword>
+      <keyword>greed</keyword>
+    </keywords>
+    <directors>
+      <director>Rouse, Mitch</director>
+    </directors>
+    <plot>"Employee of the Month" is about a guy whose day spirals from bad to worse when he gets fired from his dream job at the bank and is dumped by his fiancée Sara. David's best friend Jack tries to convince him it's for the best, but the opposite occurs when bank robberies and millions of dollars become part of his day from hell.</plot>
+  </movie>
+
+  <movie id="2">
+    <title>Neighbors</title>
+    <year>2005</year>
+    <genres>
+      <genre>Short</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+    </genres>
+    <keywords>
+      <keyword>theft</keyword>
+      <keyword>neighbor</keyword>
+      <keyword>evidence</keyword>
+      <keyword>video-footage</keyword>
+    </keywords>
+    <directors>
+      <director>Galindo, M. Saldivar</director>
+      <director>Rose, John (XV)</director>
+    </directors>
+    <plot>Through a carefully devised stakeout involving the building's surveillance camera, John Rose manages to capture categorized evidence of one of his neighbors repeatedly stealing his newspaper. After logging enough footage and learning the neighbor's routine, Rose and Rod Scot hide in the building lobby waiting for the thief to strike.</plot>
+  </movie>
+
+  <movie id="3">
+    <title>Net Worth</title>
+    <year>1995</year>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Sport</genre>
+    </genres>
+    <keywords>
+      <keyword>labor-union</keyword>
+      <keyword>labor</keyword>
+      <keyword>based-on-book</keyword>
+      <keyword>hockey</keyword>
+    </keywords>
+    <directors>
+      <director>Ciccoritti, Jerry</director>
+    </directors>
+    <plot>This powerful tale of the NHL's early years follows Ted Lindsay, an all-star for the Detroit Red Wings, in his quest to create a Player's Association to protect the rights of players against the ravages of monopolistic, profit taking owners. Lindsay, spurred on by the memory of a former teammate who died broke because he couldn't access his pension, mobilizes players from around the league to his cause.</plot>
+  </movie>
+
+  <movie id="4">
+    <title>xXx</title>
+    <year>2002</year>
+    <genres>
+      <genre>Thriller</genre>
+      <genre>Adventure</genre>
+      <genre>Action</genre>
+      <genre>Crime</genre>
+    </genres>
+    <keywords>
+      <keyword>rescue</keyword>
+      <keyword>death</keyword>
+      <keyword>explosion</keyword>
+      <keyword>police</keyword>
+      <keyword>cell-phone</keyword>
+      <keyword>sniper</keyword>
+      <keyword>california</keyword>
+      <keyword>spy</keyword>
+      <keyword>auto-theft</keyword>
+      <keyword>sky-surfing</keyword>
+    </keywords>
+    <directors>
+      <director>Cohen, Rob (I)</director>
+    </directors>
+    <plot>Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government "recruits" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.</plot>
+  </movie>
+
+  <movie id="5">
+  <title>The Aviator</title>
+  <year>2004</year>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Biography</genre>
+  </genres>
+  <keywords>
+    <keyword>financial-difficulty</keyword>
+    <keyword>wealth</keyword>
+    <keyword>megaphone</keyword>
+    <keyword>new-york-city</keyword>
+    <keyword>hughes-aircraft</keyword>
+    <keyword>fbi</keyword>
+    <keyword>pipe-smoking</keyword>
+    <keyword>nightclub</keyword>
+    <keyword>censorship</keyword>
+    <keyword>inheritance</keyword>
+    <keyword>painting</keyword>
+    <keyword>marriage-proposal</keyword>
+    <keyword>sex</keyword>
+    <keyword>love</keyword>
+    <keyword>money</keyword>
+    <keyword>genius</keyword>
+    <keyword>golf</keyword>
+  </keywords>
+  <directors>
+    <director>Scorsese, Martin</director>
+  </directors>
+  <plot>The script begins as a young Hughes directs one of Scorsese's favorite films, Hell's Angels. Hughes was so obsessed with perfection in the aerial sequences that he waits forever for perfect conditions, right down to cloud formations. The Aviator ends in 1946, when Hughes was still a dashing young man and romancing actresses like Ava Gardner and Katharine Hepburn.</plot>
+</movie>
+
+</movies>
